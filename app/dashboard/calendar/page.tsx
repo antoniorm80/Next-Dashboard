@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
 
 export default function Page() {
-    return <p>Invoices Page</p>;
+    return <p>Calendar Page</p>;
 }
 
 // export default function Page() {
